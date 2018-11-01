@@ -11,7 +11,9 @@ Class: University of Washington DATA 512, Winter 2018
 Professors: Jonathan Morgan and Os Keyes
 
 ## Goal
-The goal of this project is...
+The goal of this project is to analyze quality metrics against Wikipedia pages about political figures from a variety of different countries. We are to effectively obtain, combine, and analyze data such as a page's predicted ORES score, and evaluate that relative to how many articles have been created, and for which countries' political figures.  Potential for Bias within the data might be discoverable if, say, certain countries' political figures are under (or over-) represented in article count, or in quality assessment.
+
+I'll look for coverage of politicians, meaning total count of articles vs. a countries population, and article quality proportions, meaning the counts of high or low-scoring articles vs. the count of articles available for a country's politicians. 
 
 ## Data sources used
 
@@ -62,6 +64,14 @@ The data files in this repository are:
 |LICENSE|MIT to cover the files in this repo|
 |A2 Bias in Data.IPYNB|Jupyter Notebook containing code and steps to execute this project.|
 |data_final.CSV|Final output combined data used for analysis|
+
+## Results
+The results of this project are primarily available by using the Jupyter Notebook accompanying this assignment.
+
+In summary,  
+
+## Reflection
+This project... 
 
 ## Licenses and terms of use
 
